@@ -1,2 +1,2 @@
 # simple-oop-javascript
-Simple description of OOP concepts in javascript node
+Simple explanation of Object Oriented Programming concepts in javascript node
